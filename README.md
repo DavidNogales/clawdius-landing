@@ -18,4 +18,4 @@ The project consists in developing a responsive single page website using only H
 
 ## **Try it!**
 
-[Website](https://pedantic-bardeen-f03be4.netlify.app)
+[Website](https://clawdius-landing.vercel.app)
